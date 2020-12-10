@@ -1,5 +1,5 @@
 # The code is the implementation of the following paper:
-% "Puhong Duan, Xudong Kang, Pedram Ghamisi, et al. Multilevel structure extraction-based multi-sensor data fusion, Remote Sensing, 2020."
+% Puhong Duan, et al. Multilevel structure extraction-based multi-sensor data fusion, Remote Sensing, 2020.
 # Usage
 % Please run Testdemo
 # If you use this code, please kindly cite this paper
